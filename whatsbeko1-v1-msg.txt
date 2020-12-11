@@ -1,8 +1,4 @@
 {
-  "devmsg": [
-    {
-      "num": 19,
-      "msgs": " - Custom Icons from Internal Storage - New Home Style - Fix Schedule, Auto Reply"
-    }
-  ]
+"num": 19,
+"msgs": " - Custom Icons from Internal Storage - New Home Style - Fix Schedule, Auto Reply"
 }
