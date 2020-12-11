@@ -1,8 +1,7 @@
 
 {
-  "records": [
+  "devmsg": [
     {
-      "version": "DELTA YOWA v3.5.2",
       "num": 19,
       "msgs": " - Custom Icons from Internal Storage - New Home Style - Fix Schedule, Auto Reply"
     }
